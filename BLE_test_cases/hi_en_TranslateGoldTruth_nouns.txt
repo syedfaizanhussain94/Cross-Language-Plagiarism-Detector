@@ -1,0 +1,135 @@
+पिता	father	papa
+मां	mother	mum
+दुनिया	world
+राजा	king	raja	rajah
+खेद	sorry
+गीत	song
+संगीत	music
+पानी	water
+स्कूल	school
+साल	year
+बच्चा	kid	child
+समय	time	moment
+महिला	woman	lady
+पुरुषों	men
+आदमी	man	person	human
+दिन	day
+भूमि	land
+लोग	people
+सवाल	question	query
+उत्तर	answer
+काम	work	job	task
+घर	house	home
+इतिहास	history
+परिवार	family
+सरकार	government
+स्वास्थ्य	health
+व्यवस्था	system	arrangement
+मांस	meat	flesh
+सिद्धांत	theory	principle
+साहित्य	literature
+समस्या	problem
+सॉफ्टवेयर	software
+शक्ति	power	energy
+ज्ञान	knowledge	sense
+नियंत्रण	control
+इंटरनेट	internet
+उत्पाद	product
+तथ्य	fact
+प्रकृति	nature
+विज्ञान	science
+विचार	idea	opinion	thought	consideration
+क्षेत्र	area	region
+समाज	society	community
+गतिविधि	activity
+कहानी	story	tale
+सुरक्षा	safety	protection
+चीज़	thing	cheese
+विकास	development	growth
+गुणवत्ता	quality
+खिलाड़ी	player
+वीडियो	video	videos
+प्रबंधन	management
+अभिनेता	actor	performer
+चलचित्र	movie	film
+संगठन	organization	company
+दिशा	direction	side
+नीति	policy
+प्रौद्योगिकी	technology
+सेना	army	military	troop
+कागज़	paper
+मंत्री	minister
+अध्यक्ष	president	chairman	head
+महीना	month
+विभाग	department	division
+लक्ष्य	goal	target	aim
+समाचार	news
+शादी	marriage	wedding
+त्यौहार	festival
+संस्कृति	culture
+छुट्टी	holiday	leave	vacation
+राष्ट्र	nation	state	country
+देश	country	land	nation
+युद्ध	war	warfare combat
+बीमारी	disease	illness	sickness
+साहस	courage	daring	guts
+सड़क	road	street
+स्थान	location	place	position	destination
+सफलता	success
+सूरज	sun
+ध्यान	attention	meditation	heed	notice
+शिक्षा	education	teaching
+गणित	math	mathematics	mathematical
+छात्र	student	pupil
+घटना	event	incident	occasion	decrease
+कार्यालय	office
+चालक	driver	chauffeur
+झील	lake
+दृश्य	scene	view	visual
+ग्राहक	customer
+लंबाई	length
+रक्त	blood
+मनोदशा	mood
+सलाह	advice	counsel
+स्थिति	situation	state
+कथन	statement	narration
+कौशल	skill	skills
+फ़ोटो	photo
+स्टूडियो	studio	studios
+विषय	topic	subject	theme
+स्मृति	memory
+जोश	passion	enthusiasm
+गहराई	depth
+धैर्य	patience	grit
+प्रशासन	administration
+प्रतिक्रिया	response	reaction	feedback
+चयन	selection	select
+भंडार	store	storage
+अनुबंध	contract	agreement
+तर्क	argument	logic
+धर्म	religion	faith	righteousness
+परंपरा	tradition	convention
+नाटक	drama	play
+अभिनेत्री	actress
+तारा	star
+चुनाव	election	choice
+मालिक	owner
+भोजन	food	eating	meal
+कॉलेज	college
+भावना	emotion	spirit	sense
+मेहमान	guest
+प्रबंधक	manager
+वाहन	vehicle
+नदी	river	stream
+पृथ्वी	earth	globe
+जन्म	birth	born
+भारत	india
+हिंदी	hindi
+अंग्रेज़ी	english
+बाज़ार	bazaar	market	marketplace
+जंगल	jungle	forest
+थॉमस	thomas
+एलिजाबेथ	elizabeth
+लंदन	london
+दिल्ली	delhi
+कृष्णा	krishna	dark	black

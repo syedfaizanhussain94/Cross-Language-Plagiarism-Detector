@@ -1,0 +1,121 @@
+पिता	father
+मां	mother
+दुनिया	world
+राजा	king
+खेद	sorry
+गीत	song
+संगीत	music
+पानी	water
+स्कूल	school
+साल	year
+बच्चा	kid
+समय	time
+महिला	woman
+पुरुषों	men
+आदमी	man
+दिन	day
+भूमि	land
+लोग	people
+सवाल	question
+उत्तर	answer
+काम	work
+घर	house
+इतिहास	history
+परिवार	family
+सरकार	government
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+बनाना	make
+हैं	are
+सोया	slept
+जाना	go
+कहा	called
+जाता	have
+जानना	know
+आना	come
+चाहिए	should
+खाना	eat
+पीना	drink
+कहना	say
+रहना	stay
+खोज	find
+सोच	think
+है	is
+लेना	take
+करना	do
+जीना	live
+खेल	play
+खोज	search
+दौड़	run
+बेहतर	better
+अच्छा	good
+बुरा	bad
+अधिक	more
+सफेद	white
+हरा	green
+नई	new
+लंबा	long
+बहुत	very
+अधिक	much
+बड़े	big
+छोटा	small
+पहला	first
+पुराना	old
+उच्च	high
+जर्मन	German
+पिछले	last
+सरल	simple
+अपना	own
+सुंदर	beautiful
+इस	this
+ज्यादा	more
+यह	this
+एक	a
+से	from
+के	for
+साथ	with
+फिर	then
+नीचे	under
+कौन	which
+क्या	what
+क्यों	why
+मज़ा	fun
+मैं	I
+नहीं	not
+आप	you
+वह	she
+वे	they
+कैसे	how
+हम	we
+अब	now
+पूरे	whole
+मुझे	me
+यहां	here
+दोबारा	again
+क्योंकि	because
+हमें	us
+बाद	after
+हालांकि	although
+जहाँ	where
+हर	every
+हमारी	our
+उसे	him
+तुम	you
+तुम्हारा	your
+मेरे	my

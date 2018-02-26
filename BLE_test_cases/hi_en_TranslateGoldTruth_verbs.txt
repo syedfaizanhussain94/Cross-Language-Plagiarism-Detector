@@ -1,0 +1,100 @@
+बनाना	make	build	makes	builds
+छोड़ना	leave	leaves
+सोया	sleep	slept	sleeps
+जाना	go	goes	known
+कहा	called
+जाता	have	goes	go
+जानना	know	knows
+आना	come	comes
+चाहिए	should	must
+खाना	eat	eats
+पीना	drink	drinks
+कहना	say	tell	says tells
+रहना	stay	live	stays	lives
+सोचना	think	thinks
+है	is	have	has
+लेना	take	takes
+करना	do	does
+जीना	live	lives
+खेलना	play	plays
+खोजना	search	find	finds	searches
+दौड़ना	run	runs
+मिलना	meet	found	meets
+देखना	see	sees
+ज़रूरत	need	needs
+प्रदान	provide	provides
+समझना	understand	understands
+चुनना	choose	chooses
+देना	give	gives
+बढ़ना	grow	grows
+रखना	keep	keeps
+भरना	fill	fills
+लाना	bring	brings
+संभालना	handle	handles
+सुधारना	improve	improves
+पकड़ना	catch	catches
+आरंभ	begin	begins
+पहुंच	access	reach	accesses	reaches
+बचाना	protect	save	protects	saves
+पहचानना	identify	identifies
+तय	decide	decides
+आनंद	enjoy	enjoys
+घटना	occur	subtract	occurs	subtracts
+लिखना	write	writes
+पढ़ना	read	reads
+तैयार	prepare	prepares
+टालना	avoid	avoids
+बढ़ाना	increase	increases
+मारना	beat	kill	strike	beats	kills	strikes
+मानना	believe	believes
+समाधान	solve	solves
+अनुसरण	follow	follows
+एहसास	realize	realizes
+विचारना	discuss	discusses
+प्राप्त	receive	obtain	receives	obtains
+खोलना	open	opens
+अपेक्षा	expect	expects
+कम	reduce	reduces
+बदलना	change	changes
+दिखाई	appear	appears
+समझाना	explain	explains
+खोना	lose	loses
+जोड़ना	add	adds
+भरोसा	rely	relies
+भूलना	forget	forgets
+संवाद	communicate	communication	communicates
+बोलना	speak	say	says	speaks
+उत्पन्न	generate	generates
+स्वीकारना	accept	accepts
+पाना	obtain	receive	obtains	receives
+शिकायत	complain	complains
+होना	happen	hanppens
+जताना	connote	realize	realizes	connotes
+सुझाव	suggest	suggests
+तुलना	compare	compares
+कल्पना	imagine	imagines
+प्रबंध	manage	manages
+विस्तार	expand	expands
+आराम	relax	relaxes
+साबित	prove	proves
+उधार	borrow	borrows
+भेजना	send	sends
+नापना	measure	measures
+जांच	examine	examines
+उपस्थित	attend	attends
+परिचय	introduce	inroduces
+आभारी	owe	owes
+समायोजन	coordinate	coordinates
+पुष्टि	confirm	confirms
+फेंकना	throw	throws
+डालना	put	puts
+सलाह	consult	consults	advice	advices
+पहुंचना	arrive	arrives
+सहमत	agree	agrees
+व्यवहार	behave	behaves
+मनाना	celebrate	celebrates
+जोर	insist	insists
+स्वीकार	admit	admits
+प्रशंसा	praise	praises
+बिगाड़ना	distort	distorts
+तोड़ना	break	breaks
